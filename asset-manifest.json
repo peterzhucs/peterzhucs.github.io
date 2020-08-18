@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/static/js/main.e531786e.chunk.js",
+    "main.js.map": "/static/js/main.e531786e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c9840fbb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c9840fbb.js.map",
+    "static/css/2.9ef65634.chunk.css": "/static/css/2.9ef65634.chunk.css",
+    "static/js/2.721a2d00.chunk.js": "/static/js/2.721a2d00.chunk.js",
+    "static/js/2.721a2d00.chunk.js.map": "/static/js/2.721a2d00.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ddd116686851b74257bfa3efbd1cce77.js": "/precache-manifest.ddd116686851b74257bfa3efbd1cce77.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.9ef65634.chunk.css.map": "/static/css/2.9ef65634.chunk.css.map",
+    "static/js/2.721a2d00.chunk.js.LICENSE.txt": "/static/js/2.721a2d00.chunk.js.LICENSE.txt",
+    "static/media/cupcake.jpg": "/static/media/cupcake.e5baeb75.jpg",
+    "static/media/cupcake2.jpg": "/static/media/cupcake2.72c8ac0a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9840fbb.js",
+    "static/css/2.9ef65634.chunk.css",
+    "static/js/2.721a2d00.chunk.js",
+    "static/js/main.e531786e.chunk.js"
+  ]
+}
